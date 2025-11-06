@@ -35,20 +35,6 @@ The app presents a clean, modern interface with smooth navigation and local asse
 
 ---
 
-## 🗂 Project Structure
-
-PortfolioApp/
-├── PortfolioApp.swift # App entry point
-├── ContentView.swift # Main tab navigation
-├── HomeView.swift # Home screen (Profile, Skills, Experience, Education)
-├── ProjectsView.swift # Projects list and grid
-├── ProjectDetailView.swift # Individual project details
-├── WrapView.swift # Reusable layout for skill and tag wrapping
-├── Assets.xcassets/ # Local images (profile, projects)
-
-
----
-
 ## 🧑‍💻 About the Developer
 
 **Luan Rocha D’amato**  
